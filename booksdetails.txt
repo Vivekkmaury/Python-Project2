@@ -1,0 +1,18 @@
+s.no.  Book name    price(Rs.)      Publisher/company
+ 1.   Mathematics    750/-            R.S. Aggarwal
+ 2.   Mathematics    1800/-(I+II)     R.D. Sharma
+ 3.   Mathematics    1000/-           Pradeep
+ 4.   Chemistry      1800/-(I+II)     Pradeep
+ 5.   Chemistry      1500/-(I+II)     GRB
+ 6.   Physics        1800/-(I+II)     S.L. Arora
+ 7.   Physics        2000/-(I+II)     S.C. Verma
+ 8.   Physics        1700/-(I+II)     Pradeep
+ 9.   Hindi          250/-            NCERT
+ 10.  English        300/-            NCERT
+ 11.  CS             500/-            Sumita Arora
+ 12.  Physical     750/-(Book+File)   Evergreen
+ 13.  Accounts       450/-            APC
+ 14.  Business       500/-            APC
+ 15.  Economics      350/-            Evergreen
+ 16.  Xam idea       500/-            V.K. Global
+ ## Xam idea price are same for all subjects ##
